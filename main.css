@@ -1,0 +1,74 @@
+.container {
+    padding:4px;
+}
+
+.center {
+    margin:auto;
+}
+
+.sort_by_btn {
+    font-size: 11px;
+    color: lightslategrey;
+}
+
+.nav_btns {
+    font-size: 14px;
+}
+
+.motto {
+    color: #cccccc;
+}
+
+a.join_wait {
+    color: white;
+    font-size: 12px;
+}
+a.join_wait:hover {
+    color: white;
+    font-size: 12px;
+}
+
+.essay, .essay a, .essay a:hover{
+    font-size: 14px;
+    color: #222222;
+}
+
+.essay div {
+    margin-top: 12px;
+}
+
+.add_link {
+    font-size: 14px;
+}
+
+.sort_by_btn a {
+    color: #4d4d4d;
+}
+
+.small_container{
+	margin: auto;
+	width: 75%;
+}
+
+table {
+    font-size: 12px;
+}
+
+table thead th {
+    font-size: 10px;
+    word-wrap: break-word;
+}
+
+.name {
+    word-wrap: break-word;
+}
+
+.mrr_col {
+    text-align: right;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+#mrr_table_head {
+    text-decoration: underline;
+}
